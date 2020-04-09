@@ -22,10 +22,6 @@
 	path = Plugins/UUtils
 	url = https://github.com/robcog-iai/UUtils.git
 	branch = master
-[submodule "Plugins/UPhysicsBasedMC"]
-	path = Plugins/UPhysicsBasedMC
-	url = https://github.com/robcog-iai/UPhysicsBasedMC.git
-	branch = dev
 [submodule "Plugins/UPIDController"]
 	path = Plugins/UPIDController
 	url = https://github.com/robcog-iai/UPIDController.git
@@ -48,7 +44,7 @@
 	branch = master
 [submodule "Plugins/URoboVision"]
 	path = Plugins/URoboVision
-	url = git@github.com:Sanic/URoboVision.git
+	url = https://github.com/robcog-iai/URoboVision.git
 [submodule "Plugins/UTFPublisher"]
 	path = Plugins/UTFPublisher
 	url = https://github.com/robcog-iai/UTFPublisher.git
