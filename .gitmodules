@@ -26,3 +26,12 @@
 	path = Plugins/UPIDController
 	url = https://github.com/Sanic/UPIDController.git
 	branch = master
+[submodule "Plugins/UROSWorldControl"]
+	path = Plugins/UROSWorldControl
+	url = https://github.com/robcog-iai/UROSWorldControl
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = https://github.com/robcog-iai/UROSBridge
+[submodule "Plugins/URoboVision"]
+	path = Plugins/URoboVision
+	url = https://github.com/robcog-iai/URoboVision/
