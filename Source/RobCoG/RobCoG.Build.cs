@@ -11,6 +11,7 @@ public class RobCoG : ModuleRules
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay" });
 
+		PublicDependencyModuleNames.AddRange(new string[] { "UROSBridge", "UROSControl" });
 		//PrivateDependencyModuleNames.AddRange(new string[] {"HeadMountedDisplay", "SteamVR" });
 
 		// Uncomment if you are using Slate UI
