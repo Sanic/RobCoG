@@ -14,10 +14,6 @@
 	path = Content/Private
 	url = https://github.com/robcog-iai/PrivateContent.git
 	branch = master
-[submodule "Plugins/USemLog"]
-	path = Plugins/USemLog
-	url = https://github.com/robcog-iai/USemLog.git
-	branch = master
 [submodule "Plugins/UUtils"]
 	path = Plugins/UUtils
 	url = https://github.com/robcog-iai/UUtils.git
@@ -28,29 +24,5 @@
 	branch = master
 [submodule "Plugins/UPIDController"]
 	path = Plugins/UPIDController
-	url = https://github.com/robcog-iai/UPIDController.git
-	branch = master
-[submodule "Plugins/OrionStreamer"]
-	path = Plugins/OrionStreamer
-	url = https://github.com/robcog-iai/OrionStreamer.git
-	branch = master
-[submodule "Plugins/UElectricalDevices"]
-	path = Plugins/UElectricalDevices
-	url = https://github.com/robcog-iai/UElectricalDevices.git
-	branch = master
-[submodule "Plugins/SRanipal"]
-	path = Plugins/SRanipal
-	url = https://github.com/robcog-iai/SRanipal.git
-	branch = master
-[submodule "Plugins/UMongoC"]
-	path = Plugins/UMongoC
-	url = https://github.com/robcog-iai/UMongoC.git
-	branch = master
-[submodule "Plugins/UMongoQA"]
-	path = Plugins/UMongoQA
-	url = https://github.com/robcog-iai/UMongoQA.git
-	branch = master
-[submodule "Plugins/UViz"]
-	path = Plugins/UViz
-	url = https://github.com/robcog-iai/UViz.git
+	url = https://github.com/Sanic/UPIDController.git
 	branch = master
