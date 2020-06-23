@@ -35,3 +35,9 @@
 [submodule "Plugins/URoboVision"]
 	path = Plugins/URoboVision
 	url = https://github.com/robcog-iai/URoboVision/
+[submodule "Meshes/PerceptionExperimentModels"]
+	path = Meshes/PerceptionExperimentModels
+	url = https://github.com/Sanic/PerceptionExperimentModels.git
+[submodule "Content/PerceptionExperimentContent"]
+	path = Content/PerceptionExperimentContent
+	url = https://github.com/Sanic/PerceptionExperimentContent.git
