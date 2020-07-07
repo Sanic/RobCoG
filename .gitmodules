@@ -41,3 +41,6 @@
 [submodule "Content/PerceptionExperimentContent"]
 	path = Content/PerceptionExperimentContent
 	url = https://github.com/Sanic/PerceptionExperimentContent.git
+[submodule "Plugins/UnrealInterfaceObjectPlugin"]
+	path = Plugins/UnrealInterfaceObjectPlugin
+	url = https://github.com/code-iai/UnrealInterfaceObjectPlugin
